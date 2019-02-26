@@ -16,7 +16,7 @@ public class Main {
 		
 		Drama drama = new Drama();
 		
-		drama.setScript("This is played by the documentary");
+		drama.setScript("This is played by the drama");
 		
 		cinema.playMovie(movie);
 		
